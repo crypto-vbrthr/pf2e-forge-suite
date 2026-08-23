@@ -79,6 +79,21 @@ All six card packs can be enabled or disabled individually.
 **Critical Forge: Arsenal** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arsenal
 
 
+### Grim Consequences
+
+**Grim Consequences** is an expansion for **Critical Forge** designed for darker, more serious Pathfinder 2e campaigns. It adds **120 new critical consequences** focused on painful setbacks, loss of control, shattered defenses, physical collapse, and mental strain, without slapstick or deliberately comedic results.
+
+The module contains four separate decks for **Attack**, **Fortitude**, **Reflex**, and **Will**, each with 30 carefully balanced consequences ranging from moderate complications to rare, severe outcomes. Every deck can be enabled or disabled individually through the module settings.
+
+Grim Consequences integrates directly with Critical Forge and its Effect Engine, automating suitable effects where possible while keeping more situational consequences clear and easy to adjudicate at the table.
+
+Ideal for campaigns where critical failures and devastating hits should leave a mark, at least for a little while.
+
+**Requires:** Critical Forge
+
+**Critical Forge: Grim Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-grim-consequences
+
+
 ### Martial Consequences
 
 **Martial Consequences** expands the **PF2E Critical Forge** with 120 cards dedicated to the shifting momentum of physical combat. Its four card packs cover **Martial Attack Fumbles, Ranged Mishaps, Martial Openings, and Combat Momentum**.
