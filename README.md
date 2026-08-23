@@ -66,7 +66,7 @@ All four card packs can be enabled or disabled individually.
 **Critical Forge: Arcane Backlash** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arcane-backlash
 
 
-## Arsenal
+### Arsenal
 
 **Arsenal** expands the **PF2E Critical Forge** with 180 cards focused on the brutal consequences of weapon combat. Its six card packs cover critical hits and critical fumbles for **slashing, piercing, and bludgeoning damage**.
 
@@ -79,7 +79,7 @@ All six card packs can be enabled or disabled individually.
 **Critical Forge: Arsenal** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arsenal
 
 
-## Martial Consequences
+### Martial Consequences
 
 **Martial Consequences** expands the **PF2E Critical Forge** with 120 cards dedicated to the shifting momentum of physical combat. Its four card packs cover **Martial Attack Fumbles, Ranged Mishaps, Martial Openings, and Combat Momentum**.
 
