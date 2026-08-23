@@ -1,6 +1,22 @@
 # PF2e Forge Suite
 
 
+# About the PF2E Forge Suite
+
+The **PF2E Forge Suite** is a growing collection of free Foundry VTT modules designed to make life behind the GM screen easier.
+
+Its purpose is to support Game Masters throughout the entire game: from **preparing adventures and creating content**, to **organizing campaigns and managing information**, to **automating repetitive tasks during play**. The individual Forge modules provide focused tools that reduce bookkeeping, improve clarity, and help the GM spend less time fighting interfaces and more time running the game.
+
+At the same time, the Forge Suite is not only about efficiency. Many of its tools are designed to add atmosphere, variety, unexpected moments, and useful narrative support, helping to make sessions more entertaining and enjoyable for **both the Game Master and the players**.
+
+The modules are designed to work independently, so you can use only the tools that fit your game. Where useful, Forge modules can also integrate with one another, allowing them to share information and form a broader toolkit for campaign preparation and play.
+
+The **PF2E Forge Suite is completely free and will remain free**. There are no paid tiers, subscriptions, or premium features.
+
+Below you can find the currently available Forge modules and their add-ons, each with a short description and a link to its project page.
+
+
+
 ## Campaign Forge
 
 **Campaign Forge** is a comprehensive campaign management module for Foundry VTT. It helps Game Masters organize quests, knowledge, events, key NPCs, reputation values, and long-running story threads while tracking their progress across many sessions. Sessions can be logged, entries linked together, and status changes connected to follow-up actions or rewards. A dedicated player view presents approved information clearly and safely. Through integrations with other Forge modules such as *City Forge*, *NPC Forge*, *Creature Forge*, *Loot Forge*, *Item Forge*, and *Weather Forge*, Campaign Forge can also serve as a central hub for a connected campaign.
@@ -24,3 +40,14 @@ At its core, **Critical Forge** includes the **Effect Forge**, an integrated edi
 **Critical Forge** is designed as an extensible platform rather than a closed collection of tables. Additional modules can register their own themed card packs, rules, and effects through its public extension API, allowing the system to grow with specialized expansions such as *martial consequences*, *arcane backlash*, weapon-specific criticals, heroic moments, or darker campaign themes.
 
 The **Critical Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge
+
+
+### Against All Odds
+
+**Against All Odds** is an expansion for the **Critical Forge** that rewards heroes when the battle turns desperate. Its 480 contextual critical-success cards react to situations such as fighting while badly wounded, being surrounded, facing vastly stronger enemies, or escaping imminent disaster.
+
+Effects cover attacks, spell attacks, and all three saving throws, combining automated PF2e effects with tactical and narrative opportunities. Instead of making desperate situations merely more dangerous, *Against All Odds* gives heroes a chance to turn them into memorable moments of defiance, survival, and triumph.
+
+**Requires:** Critical Forge
+
+**Critical Forge: Against All Odds** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-against-all-odds
