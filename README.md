@@ -51,3 +51,16 @@ Effects cover attacks, spell attacks, and all three saving throws, combining aut
 **Requires:** Critical Forge
 
 **Critical Forge: Against All Odds** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-against-all-odds
+
+
+### Arcane Backlash
+
+**Arcane Backlash** expands the **PF2E Critical Forge** with 120 cards dedicated to the unpredictable extremes of magic. Its four card packs cover critical spell attack successes and failures, as well as critical successes and failures on saving throws against spells.
+
+From unstable magical feedback and defiant reversals to surging spell resonance and overwhelming magical aftereffects, the module adds tactical, narrative, and directly applicable effects for all magical traditions. Many cards integrate with the Critical Forge Effect Engine, while others introduce clear manual consequences that can reshape positioning, reactions, defenses, and the flow of combat.
+
+All four card packs can be enabled or disabled individually.
+
+**Requires:** Critical Forge
+
+**Critical Forge: Arcane Backlash** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arcane-backlash
