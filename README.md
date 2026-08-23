@@ -105,3 +105,16 @@ All four card packs can be enabled or disabled individually.
 **Requires:** Critical Forge
 
 **Critical Forge: Martial Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-martial-consequences
+
+
+## Weather Forge
+
+**Weather Forge** provides persistent, evolving weather for Pathfinder 2E campaigns in Foundry VTT. Instead of generating isolated random conditions, it simulates weather that develops naturally over time, taking **climate, season, time of day, temperature trends, humidity, clouds, wind, precipitation, and extreme weather** into account.
+
+Game Masters can generate and preview current conditions, create **1–7 day forecasts**, review a persistent **weather history**, and publish detailed GM reports or immersive player-facing weather descriptions directly to chat. Extreme events such as storms, heatwaves, and cold waves can develop over several stages rather than appearing and disappearing without warning.
+
+Weather Forge includes multiple climate zones and an internal Golarion calendar, but can also integrate with other Forge modules. **Calendar Forge** can provide the current date, season, moon phase, and daypart while Foundry world time remains authoritative. **City Forge** can provide the climate of the current or a specifically selected settlement, allowing weather generation to reflect where the party actually is.
+
+All integrations are optional, and Weather Forge remains fully usable as a standalone module.
+
+**Weather Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-weather-forge
