@@ -77,3 +77,16 @@ All six card packs can be enabled or disabled individually.
 **Requires:** Critical Forge
 
 **Critical Forge: Arsenal** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arsenal
+
+
+## Martial Consequences
+
+**Martial Consequences** expands the **PF2E Critical Forge** with 120 cards dedicated to the shifting momentum of physical combat. Its four card packs cover **Martial Attack Fumbles, Ranged Mishaps, Martial Openings, and Combat Momentum**.
+
+The module adds tactical consequences for weapons, unarmed strikes, and natural attacks, ranging from awkward mistakes and dangerous ranged mishaps to openings created by powerful hits and bursts of battlefield momentum. Effects can alter positioning, defenses, reactions, movement, and opportunities for allies, with many cards integrating directly with the Critical Forge Effect Engine.
+
+All four card packs can be enabled or disabled individually.
+
+**Requires:** Critical Forge
+
+**Critical Forge: Martial Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-martial-consequences
