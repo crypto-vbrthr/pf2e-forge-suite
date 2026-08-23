@@ -64,3 +64,16 @@ All four card packs can be enabled or disabled individually.
 **Requires:** Critical Forge
 
 **Critical Forge: Arcane Backlash** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arcane-backlash
+
+
+## Arsenal
+
+**Arsenal** expands the **PF2E Critical Forge** with 180 cards focused on the brutal consequences of weapon combat. Its six card packs cover critical hits and critical fumbles for **slashing, piercing, and bludgeoning damage**.
+
+From deep cuts, shattered defenses, and crushing impacts to lost footing, weapon mishaps, and painful openings, Arsenal turns exceptional attack rolls into memorable tactical moments. Many cards use the Critical Forge Effect Engine to apply conditions, penalties, persistent damage, movement effects, and other mechanical consequences directly in Foundry VTT.
+
+All six card packs can be enabled or disabled individually.
+
+**Requires:** Critical Forge
+
+**Critical Forge: Arsenal** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arsenal
