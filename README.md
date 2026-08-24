@@ -113,7 +113,7 @@ All afflictions contained in **Monstrous Afflictions** are original homebrew con
 **Affliction Forge: Monstrous Afflictions** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-monstrous-afflictions
 
 
-## Affliction Forge: Occult Horrors
+### Affliction Forge: Occult Horrors
 
 **Occult Horrors** is a content add-on for **Affliction Forge** containing **32 original occult-themed afflictions from levels 0 through 20**, created for campaigns where the things that infect body and mind are not always entirely natural.
 
