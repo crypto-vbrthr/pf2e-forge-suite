@@ -32,7 +32,7 @@ A public API, semantic tagging system, and provider libraries allow other Forge 
 
 **Affliction Forge requires Critical Forge.**
 
-The **Affliction Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge.
+The **Affliction Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge
 
 
 ### Affliction Forge: Alchemist's Cabinet
@@ -51,9 +51,7 @@ All afflictions contained in **Alchemist's Cabinet** are original homebrew conte
 
 **Requires Affliction Forge 0.1.63 or later.**
 
-**Affliction Forge: The Alchemist's Cabinet** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-alchemists-cabinet.
-
-
+**Affliction Forge: The Alchemist's Cabinet** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-alchemists-cabinet
 
 
 ### Affliction Forge: The Black Archive
@@ -72,7 +70,7 @@ All afflictions contained in **The Black Archive** are original homebrew content
 
 **Requires Affliction Forge 0.1.63 or later.**
 
-**Affliction Forge: The Black Archive** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-black-archive.
+**Affliction Forge: The Black Archive** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-black-archive
 
 
 ### Affliction Forge: Curses & Damnations
@@ -91,7 +89,7 @@ All curses contained in **Curses & Damnations** are original homebrew content cr
 
 **Requires Affliction Forge.**
 
-**Affliction Forge: Curses & Damnations** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-curses-damnations.
+**Affliction Forge: Curses & Damnations** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-curses-damnations
 
 
 ### Affliction Forge: Remastered Rules Library
@@ -108,22 +106,72 @@ The library follows a **mechanics-only content policy** under the **ORC License*
 
 **Requires Affliction Forge 0.1.61 or later.**
 
-**Affliction Forge: Remastered Rules Library** can be found here: https://github.com/crypto-vbrthr/affliction-forge-remastered-rules.
+**Affliction Forge: Remastered Rules Library** can be found here: https://github.com/crypto-vbrthr/affliction-forge-remastered-rules
 
 
+## Aura Forge
 
+**Aura Forge** is the Forge Suite's framework for creating, assigning, and automating **PF2E auras** in Foundry VTT. It allows Game Masters to build reusable auras whose effects respond dynamically to creatures entering, remaining within, or leaving their area of influence.
+
+Auras can contain persistent **Presence Effects** that are automatically applied while a valid target remains inside the aura and removed again when it leaves. In addition, configurable event triggers can react to **entering, leaving, the start of a turn, or the end of a turn**, allowing auras to cause conditions, damage, other mechanical effects, or even immediate death where appropriate.
+
+Triggers can use native PF2E **saving throws with degree-of-success outcomes**, including automatic rolls, GM-controlled resolution, or requests sent directly to the player controlling the affected character. Aura Forge also supports **temporary immunity periods**, preventing repeated effects from triggering again until the configured immunity expires.
+
+Auras can be stored in a central **Aura Library**, assigned to Actors through drag and drop, enabled or disabled individually, and given Actor-specific radius overrides. Generated creatures can instead carry their own **Actor-local aura definitions**, allowing modules such as **Creature Forge** to create self-contained creature abilities without filling the world's shared Aura Library.
+
+Assigned auras integrate with PF2E's native canvas aura display, while Aura Forge handles the actual targeting, presence tracking, event detection, saving throws, immunity, and effect automation behind the scenes.
+
+Aura effects are created using the integrated **Critical Forge Effect Editor and Effect Engine**, giving them access to the same flexible system for conditions, modifiers, persistent effects, damage, restrictions, and other mechanical consequences.
+
+Aura Forge also provides an embedded editor and public API, allowing other Forge modules to create and manage auras while sharing the same runtime and automation system.
+
+**Requires Critical Forge.**
+
+**Aura Forge: Remastered Rules Library** can be found here: https://github.com/crypto-vbrthr/pf2e-aura-forge
 
 
 ## Campaign Forge
 
-**Campaign Forge** is a comprehensive campaign management module for Foundry VTT. It helps Game Masters organize quests, knowledge, events, key NPCs, reputation values, and long-running story threads while tracking their progress across many sessions. Sessions can be logged, entries linked together, and status changes connected to follow-up actions or rewards. A dedicated player view presents approved information clearly and safely. Through integrations with other Forge modules such as *City Forge*, *NPC Forge*, *Creature Forge*, *Loot Forge*, *Item Forge*, and *Weather Forge*, Campaign Forge can also serve as a central hub for a connected campaign.
+**Campaign Forge** is a campaign-management and campaign-memory module for Foundry VTT, designed to give Game Masters a central place to organize the many moving parts of a long-running campaign.
+
+It can track **quests, campaign chapters, knowledge, discoveries, events, long-term plot threads, sessions, reputation and other numeric campaign values, important NPCs, Journal references, rewards, and campaign progress**. Entries can be organized hierarchically, searched and filtered, linked to Foundry documents, and selectively published to players.
+
+A dedicated **Player View** provides a clean, read-only campaign overview containing only information explicitly released by the Game Master. Hidden notes, unpublished entries, GM-only data, transition rules, and other private information remain concealed, allowing Campaign Forge to serve both as a GM workspace and as a persistent campaign reference for the group.
+
+Campaign Forge can also automate campaign development through **conditional transition rules and rewards**. Completing quests, changing campaign values, or reaching other defined states can trigger further changes, allowing campaign consequences and progression to be represented directly in the campaign structure.
+
+Rewards can include ordinary PF2E rewards as well as optional integrations with **Loot Forge** and **Item Forge**, while other Forge modules can contribute additional campaign context. **City Forge, NPC Forge, Creature Forge, Loot Forge, Item Forge, and Weather Forge** remain independent modules, but Campaign Forge can reference or orchestrate their public functionality when they are installed. Weather conditions can even be captured as historical snapshots for sessions and events, preserving the circumstances in which they occurred.
+
+Campaign Forge also includes **Journal integration, data-integrity checks, backup and restore tools, protected GM storage, privacy-safe player projections, and a stable public API** for integration with other modules.
+
+All integrations are optional, and Campaign Forge remains fully usable on its own.
+
+Campaign Forge is available in **English and German**.
 
 The **Campaign Forge** can be found here: https://github.com/crypto-vbrthr/campaign-forge.
 
 
 ## City Forge
 
-**PF2e City Forge** is a settlement management and generation module for Foundry VTT and Pathfinder 2e. It lets GMs create, organize, and maintain structured settlements with population, economy, districts, locations, government, laws, security, factions, special features, and dynamic settlement states such as unrest, shortages, prosperity, or crises. Settlements can be created manually or generated from reusable templates, while remaining fully editable afterwards. City Forge also provides stable integration APIs for other Forge Suite modules, including *Market Forge* for local markets and availability, *Weather Forge* for regional climate context, *Atmosphere Forge* for settlement-aware atmosphere generation, and *Campaign Forge* for campaign-driven settlement changes and state updates.
+## City Forge
+
+**City Forge** is a structured settlement-management and generation module for Pathfinder 2E in Foundry VTT. It gives Game Masters a central framework for creating and maintaining everything from small hamlets and villages to major towns and sprawling metropolises.
+
+Settlements can contain detailed information about their **identity, level, population, ancestries, languages, religions, geography, climate, economy, industries, imports, exports, government, laws, security, factions, threats, districts, locations, NPCs, and special features**. Foundry Actors, Scenes, and Journal Entries can be linked directly to the appropriate parts of a settlement, keeping campaign information connected instead of scattered across unrelated documents.
+
+The integrated **Settlement Generator** provides reusable starting points for common settlement types such as **frontier settlements, agricultural villages, trade towns, ports, fortified towns, religious or arcane centers, mining settlements, and metropolises**. Existing settlements can also be saved as custom templates and reused as foundations for new locations.
+
+City Forge separates the permanent definition of a settlement from its **current dynamic state**. Prosperity, supply, security, order, public mood, and health can change over time, while temporary conditions such as **unrest, sieges, epidemics, festivals, shortages, occupations, disasters, or economic booms** can influence the settlement without rewriting its underlying data. Faction influence, market conditions, access rules, and active threats can change dynamically as the campaign develops.
+
+Its economy system can define **item availability, rarity access, settlement-level limits, special markets, price modifiers, spellcasting services, and feature-based market rules**. When **Market Forge** is installed, settlements can act as live market providers, allowing local economic conditions to influence what characters can actually buy.
+
+City Forge also supports optional integration with other Forge modules. **Weather Forge** can use settlement climate and geography, **Atmosphere Forge** can use districts, locations, politics, threats, and current conditions when creating narrative atmosphere, and **Campaign Forge** can react to campaign events by applying controlled changes to settlement state.
+
+A stable public API and versioned integration contracts allow other Forge modules to use settlement, economy, location, political, and state information without taking ownership of City Forge data.
+
+All integrations are optional, and City Forge remains fully usable as a standalone settlement-management tool.
+
+City Forge is available in **English and German**.
 
 The **City Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-city-forge
 
