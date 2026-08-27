@@ -191,7 +191,7 @@ The library follows a **mechanics-only content policy** under the **ORC License*
 **Affliction Forge: Remastered Rules Library** can be found here: https://github.com/crypto-vbrthr/affliction-forge-remastered-rules
 
 
-## Affliction Forge: Urban Horrors
+### Affliction Forge: Urban Horrors
 
 **Urban Horrors** is a content add-on for **Affliction Forge** containing **32 original urban afflictions from levels 0 through 20**, created for adventures in crowded streets, decaying districts, sewers, graveyards, docks, guild halls, cult hideouts, palaces, workshops, and the darker corners of city life.
 
