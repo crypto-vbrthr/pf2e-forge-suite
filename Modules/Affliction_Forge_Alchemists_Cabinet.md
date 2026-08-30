@@ -1,4 +1,4 @@
-# _Affliction Forge: Alchemist's Cabinet_
+# Affliction Forge: Alchemist's Cabinet
 
 **Alchemist's Cabinet** is a content add-on for **Affliction Forge** containing **32 original alchemical afflictions from levels 0 through 20**. Its collection focuses on manufactured toxins, experimental compounds, laboratory accidents, and other hazards born from alchemical ingenuity rather than natural disease alone.
 

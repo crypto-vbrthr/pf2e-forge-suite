@@ -25,7 +25,7 @@ A modular PF2e framework for staged poisons, diseases, curses, and other afflict
 The **Affliction Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge
 
 
-### _Affliction Forge: Alchemist's Cabinet_
+### Affliction Forge: Alchemist's Cabinet
 
 An original bilingual alchemical affliction library for PF2E Affliction Forge. Includes 32 staged poisons and laboratory diseases from level 0 to 20 with standardized semantic tags for Creature Forge matching and dedicated weapon-coating support.
 
@@ -110,7 +110,7 @@ An original bilingual urban affliction library for PF2E Affliction Forge. Includ
 
 An original bilingual poison library for PF2E Affliction Forge. Includes 32 staged venoms and toxins with standardized semantic tags for Creature Forge matching.
 
-[More about Affliction Forge: Venoms & Toxins(Modules/Affliction_Forge_Venoms_Toxins.md)
+[More about Affliction Forge: Venoms & Toxins](Modules/Affliction_Forge_Venoms_Toxins.md)
 
 **Affliction Forge: Venoms & Toxins** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-venoms-toxins
 
