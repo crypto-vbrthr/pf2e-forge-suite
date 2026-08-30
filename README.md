@@ -16,7 +16,7 @@ The **PF2E Forge Suite is completely free and will remain free**. There are no p
 Below you can find the currently available Forge modules and their add-ons, each with a short description and a link to its project page.
 
 
-## Affliction Forge
+## PF2E Affliction Forge
 
 A modular PF2e framework for staged poisons, diseases, curses, and other afflictions. Version 0.1.64 compacts the injected Affliction reference footer on PF2e item sheets and prevents it from stretching with the host window.
 
@@ -25,7 +25,7 @@ A modular PF2e framework for staged poisons, diseases, curses, and other afflict
 The **Affliction Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge
 
 
-### Affliction Forge: Alchemist's Cabinet
+### PF2E Affliction Forge: Alchemist's Cabinet
 
 An original bilingual alchemical affliction library for PF2E Affliction Forge. Includes 32 staged poisons and laboratory diseases from level 0 to 20 with standardized semantic tags for Creature Forge matching and dedicated weapon-coating support.
 
@@ -34,7 +34,7 @@ An original bilingual alchemical affliction library for PF2E Affliction Forge. I
 **Affliction Forge: The Alchemist's Cabinet** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-alchemists-cabinet
 
 
-### Affliction Forge: The Black Archive
+### PF2E Affliction Forge: The Black Archive
 
 A bilingual prestige library for PF2E Affliction Forge with 24 rare and experimental staged afflictions from level 1 to 20, using event reactions, periodic effects, residual persistence, stage expiry actions, and semantic Creature Forge tags.
 
@@ -43,7 +43,7 @@ A bilingual prestige library for PF2E Affliction Forge with 24 rare and experime
 **Affliction Forge: The Black Archive** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-black-archive
 
 
-### Affliction Forge: Curses & Damnations
+### PF2E Affliction Forge: Curses & Damnations
 
 An original bilingual curse library for PF2E Affliction Forge. Includes 32 staged curses and damnations with standardized semantic tags for Creature Forge matching.
 
@@ -52,7 +52,7 @@ An original bilingual curse library for PF2E Affliction Forge. Includes 32 stage
 **Affliction Forge: Curses & Damnations** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-curses-damnations
 
 
-### Affliction Forge: Monstrous Afflictions
+### PF2E Affliction Forge: Monstrous Afflictions
 
 An original bilingual monster-affliction library for PF2E Affliction Forge. Includes 32 staged diseases, poisons, and curses with standardized semantic tags for Creature Forge matching.
 
@@ -61,7 +61,7 @@ An original bilingual monster-affliction library for PF2E Affliction Forge. Incl
 **Affliction Forge: Monstrous Afflictions** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-monstrous-afflictions
 
 
-### Affliction Forge: Occult Horrors
+### PF2E Affliction Forge: Occult Horrors
 
 An original bilingual occult-horror affliction library for PF2E Affliction Forge. Includes 32 staged diseases, poisons, and curses with standardized semantic tags for Creature Forge matching.
 
@@ -70,7 +70,7 @@ An original bilingual occult-horror affliction library for PF2E Affliction Forge
 **Affliction Forge: Occult Horrors** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-occult-horrors
 
 
-### Affliction Forge: Plagues & Pestilence
+### PF2E Affliction Forge: Plagues & Pestilence
 
 An original bilingual disease library for PF2E Affliction Forge. Includes 28 staged diseases with standardized semantic tags for Creature Forge matching.
 
@@ -79,7 +79,7 @@ An original bilingual disease library for PF2E Affliction Forge. Includes 28 sta
 **Affliction Forge: Plagues & Pestilence** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-plagues-pestilence
 
 
-### Affliction Forge: Planar Contagions
+### PF2E Affliction Forge: Planar Contagions
 
 An original bilingual planar affliction library for PF2E Affliction Forge. Includes 32 staged diseases, poisons, and curses from level 0 to 20 with standardized semantic tags for Creature Forge matching.
 
@@ -88,7 +88,7 @@ An original bilingual planar affliction library for PF2E Affliction Forge. Inclu
 **Affliction Forge: Planar Contagions** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-planar-contagions
 
 
-### Affliction Forge: Remastered Rules Library
+### PF2E Affliction Forge: Remastered Rules Library
 
 Localized read-only Remastered rules-content library for Affliction Forge. Content definitions use language-neutral i18n tokens with German and English presentation.
 
@@ -97,7 +97,7 @@ Localized read-only Remastered rules-content library for Affliction Forge. Conte
 **Affliction Forge: Remastered Rules Library** can be found here: https://github.com/crypto-vbrthr/affliction-forge-remastered-rules
 
 
-### Affliction Forge: Urban Horrors
+### PF2E Affliction Forge: Urban Horrors
 
 An original bilingual urban affliction library for PF2E Affliction Forge. Includes 32 staged diseases, poisons, and curses from level 0 to 20 with semantic tags for Creature Forge matching.
 
@@ -106,7 +106,7 @@ An original bilingual urban affliction library for PF2E Affliction Forge. Includ
 **Affliction Forge: Urban Horrors** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-urban-horrors
 
 
-### Affliction Forge: Venoms & Toxins
+### PF2E Affliction Forge: Venoms & Toxins
 
 An original bilingual poison library for PF2E Affliction Forge. Includes 32 staged venoms and toxins with standardized semantic tags for Creature Forge matching.
 
@@ -115,7 +115,7 @@ An original bilingual poison library for PF2E Affliction Forge. Includes 32 stag
 **Affliction Forge: Venoms & Toxins** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-venoms-toxins
 
 
-## Aura Forge
+## PF2E Aura Forge
 
 Builds and manages reusable PF2e aura definitions with presence effects, event triggers, saving throws, immunity rules, and the embedded Effect Forge editor.
 
@@ -142,7 +142,7 @@ Stable Pathfinder 2e settlement framework for Foundry VTT with generator/templat
 The **City Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-city-forge
 
 
-## Creature Forge
+## PF2E Creature Forge
 
 A flexible PF2e creature generator for Foundry VTT, creating rule-aware creatures with customizable roles, abilities, spellcasting, mythic options, and seamless Forge Suite integration.
 
@@ -151,7 +151,7 @@ A flexible PF2e creature generator for Foundry VTT, creating rule-aware creature
 The **Creature Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-creature-forge
 
 
-## Critical Forge & Effect Forge
+## PF2E Critical Forge & Effect Forge
 
 A modular PF2e Effect Engine, polished Effect Forge, and Critical Forge for critical attacks, spell attacks, saving throws, and skill checks with localized multi-deck card packs, automation, battlefield threat diagnostics, and a visual card-pack editor.
 
@@ -160,7 +160,7 @@ A modular PF2e Effect Engine, polished Effect Forge, and Critical Forge for crit
 The **Critical Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge
 
 
-### Critical Forge: Against All Odds
+### PF2E Critical Forge: Against All Odds
 
 A context-sensitive expansion for PF2E Critical Forge, focused on bloodied triumphs, desperate stands, giant-slayer moments, and narrow escapes.
 
@@ -169,7 +169,7 @@ A context-sensitive expansion for PF2E Critical Forge, focused on bloodied trium
 **Critical Forge: Against All Odds** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-against-all-odds
 
 
-### Critical Forge: Arcane Backlash
+### PF2E Critical Forge: Arcane Backlash
 
 Magical card packs for PF2E Critical Forge, focused on unstable spellcasting, arcane recoil, magical reversals, and resonant aftermaths.
 
@@ -178,7 +178,7 @@ Magical card packs for PF2E Critical Forge, focused on unstable spellcasting, ar
 **Critical Forge: Arcane Backlash** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arcane-backlash
 
 
-### Critical Forge: Arsenal
+### PF2E Critical Forge: Arsenal
 
 Additional card packs for PF2E Critical Forge.
 
@@ -187,7 +187,7 @@ Additional card packs for PF2E Critical Forge.
 **Critical Forge: Arsenal** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arsenal
 
 
-### Critical Forge: Grim Consequences
+### PF2E Critical Forge: Grim Consequences
 
 A serious Critical Forge expansion for grim campaigns, focused on short, severe consequences without slapstick or permanent character damage.
 
@@ -196,7 +196,7 @@ A serious Critical Forge expansion for grim campaigns, focused on short, severe 
 **Critical Forge: Grim Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-grim-consequences
 
 
-### Critical Forge: Martial Consequences
+### PF2E Critical Forge: Martial Consequences
 
 Tactical card packs for PF2E Critical Forge that reshape the flow of martial combat.
 
@@ -205,7 +205,7 @@ Tactical card packs for PF2E Critical Forge that reshape the flow of martial com
 **Critical Forge: Martial Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-martial-consequences
 
 
-## Item Forge
+## PF2E Item Forge
 
 A reusable PF2E item generation engine with an embedded editor for Foundry VTT.
 
@@ -215,7 +215,7 @@ A reusable PF2E item generation engine with an embedded editor for Foundry VTT.
 
 
 
-## Loot Forge
+## PF2E Loot Forge
 
 A PF2E loot generator for Foundry VTT with compendium-based items, localized valuables, curiosities, and story treasures.
 
