@@ -115,6 +115,15 @@ An original bilingual poison library for PF2E Affliction Forge. Includes 32 stag
 **Affliction Forge: Venoms & Toxins** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-venoms-toxins
 
 
+### PF2E Affliction Forge: Wilderness Maladies
+
+An original bilingual wilderness affliction library for PF2E Affliction Forge. Includes 32 staged diseases, poisons, and primal curses with standardized semantic tags and broad habitat coverage for Creature Forge matching.
+
+[More about Affliction Forge: Wilderness Maladies](Modules/Affliction_Forge_Wilderness_Maladies.md)
+
+**Affliction Forge: Wilderness Maladies** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-wilderness-maladies
+
+
 ## PF2E Aura Forge
 
 Builds and manages reusable PF2e aura definitions with presence effects, event triggers, saving throws, immunity rules, and the embedded Effect Forge editor.
