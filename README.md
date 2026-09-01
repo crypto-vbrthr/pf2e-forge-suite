@@ -133,13 +133,22 @@ Builds and manages reusable PF2e aura definitions with presence effects, event t
 **Aura Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-aura-forge
 
 
+## Calendar Forge
+
+Calendar Forge is a Foundry VTT 14 calendar and temporal-context service. Foundry `game.time.worldTime` remains the only running clock. Calendar Forge translates that absolute time into localized calendar dates, regional contexts, seasons, moon states, astronomy, holidays, and chronology for users and other modules.
+
+[More about the Calendar Forge](Modules/Calendar_Forge.md)
+
+The **Calendar Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-calendar-forge
+
+
 ## Campaign Forge
 
 Campaign progress, knowledge, sessions, player-facing campaign overview, trackers, key players, rule-driven campaign state, Journal integration, rewards, and optional Forge provider integrations for Foundry VTT.
 
 [More about Campaign Forge](Modules/Campaign_Forge.md)
 
-The **Campaign Forge** can be found here: https://github.com/crypto-vbrthr/campaign-forge.
+The **Campaign Forge** can be found here: https://github.com/crypto-vbrthr/campaign-forge
 
 
 ## City Forge

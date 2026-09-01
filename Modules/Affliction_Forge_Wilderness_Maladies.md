@@ -18,4 +18,4 @@ All afflictions contained in **Wilderness Maladies** are original homebrew conte
 
 **Affliction Forge: Wilderness Maladies** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-wilderness-maladies
 
-**Affliction Forge: Wilderness Maladies will soon be available on Foundry VTT's module repository.**
+**Affliction Forge: Wilderness Maladies is available on Foundry VTT's module repository.**
