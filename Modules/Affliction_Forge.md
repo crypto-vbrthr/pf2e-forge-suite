@@ -17,3 +17,12 @@ A public API, semantic tagging system, and provider libraries allow other Forge 
 The **Affliction Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge
 
 **Affliction Forge is available on Foundry VTT's module repository.**
+
+
+![Affliction_Forge_SC1.png](Screenshots/Affliction_Forge_SC1.png)
+
+![Affliction_Forge_SC2.png](Screenshots/Affliction_Forge_SC2.png)
+
+![Affliction_Forge_SC3.png](Screenshots/Affliction_Forge_SC3.png)
+
+![Affliction_Forge_SC4.png](Screenshots/Affliction_Forge_SC4.png)
