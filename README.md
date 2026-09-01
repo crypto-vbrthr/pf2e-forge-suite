@@ -142,6 +142,15 @@ Calendar Forge is a Foundry VTT 14 calendar and temporal-context service. Foundr
 The **Calendar Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-calendar-forge
 
 
+### Calendar Forge: Golarion
+
+Localized Golarion calendar content for Calendar Forge: Absalom Reckoning, optional Earth-equivalent names, Inner Sea weekdays, seasons, Somal moon phases, and recurring holidays.
+
+[More about Calendar Forge: Golarion](Modules/Calendar_Forge_Golarion.md)
+
+**Calendar Forge: Golarion** can be found here: https://github.com/crypto-vbrthr/pf2e-calendar-forge-golarion
+
+
 ## Campaign Forge
 
 Campaign progress, knowledge, sessions, player-facing campaign overview, trackers, key players, rule-driven campaign state, Journal integration, rewards, and optional Forge provider integrations for Foundry VTT.
