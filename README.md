@@ -269,6 +269,15 @@ A modular PF2e NPC generation platform with level-scaled equipment, structured b
 **NPC Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-npc-forge
 
 
+### PF2E NPC Forge: Names of the Inner Sea
+
+A cultural name expansion for PF2E NPC Forge, adding large setting-inspired name pools for peoples of the Inner Sea region.
+
+[More about NPC Forge: Names of the Inner Sea(Modules/NPC_Forge_Names_of_the_Inner_Sea.md)
+
+**NPC Forge: Names of the Inner Sea** can be found here: https://github.com/crypto-vbrthr/pf2e-npc-forge-names-inner-sea
+
+
 ## Weather Forge
 
 A localized, persistent PF2e weather simulation for Foundry VTT with optional Calendar Forge time integration and City Forge active-scene climate/context integration, forecasting, history, climate zones, and an internal calendar fallback.
