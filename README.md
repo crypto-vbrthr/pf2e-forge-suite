@@ -273,7 +273,7 @@ A modular PF2e NPC generation platform with level-scaled equipment, structured b
 
 A cultural name expansion for PF2E NPC Forge, adding large setting-inspired name pools for peoples of the Inner Sea region.
 
-[More about NPC Forge: Names of the Inner Sea(Modules/NPC_Forge_Names_of_the_Inner_Sea.md)
+[More about NPC Forge: Names of the Inner Sea](Modules/NPC_Forge_Names_of_the_Inner_Sea.md)
 
 **NPC Forge: Names of the Inner Sea** can be found here: https://github.com/crypto-vbrthr/pf2e-npc-forge-names-inner-sea
 
