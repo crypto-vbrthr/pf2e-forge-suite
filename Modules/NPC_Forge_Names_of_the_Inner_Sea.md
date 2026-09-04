@@ -18,4 +18,4 @@ The add-on contains no independent NPC-generation logic. It registers its cultur
 
 **NPC Forge: Names of the Inner Sea** can be found here: https://github.com/crypto-vbrthr/pf2e-npc-forge-names-inner-sea
 
-**NPC Forge: Names of the Inner Sea will soon be available on Foundry VTT's module repository.**
+**NPC Forge: Names of the Inner Sea is available on Foundry VTT's module repository.**

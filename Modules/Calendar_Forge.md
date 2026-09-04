@@ -20,4 +20,4 @@ Calendar Forge is available in **English and German**.
 
 The **Calendar Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-calendar-forge
 
-**Calendar Forge will soon be available on Foundry VTT's module repository.**
+**Calendar Forge is available on Foundry VTT's module repository.**

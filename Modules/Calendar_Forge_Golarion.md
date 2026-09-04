@@ -20,4 +20,4 @@ All setting content is available in **English and German**.
 
 **Calendar Forge: Golarion** can be found here: https://github.com/crypto-vbrthr/pf2e-calendar-forge-golarion
 
-**Calendar Forge: Golarion will soon be available on Foundry VTT's module repository.**
+**Calendar Forge: Golarion is available on Foundry VTT's module repository.**
