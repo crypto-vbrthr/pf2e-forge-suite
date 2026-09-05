@@ -16,6 +16,15 @@ The **PF2E Forge Suite is completely free and will remain free**. There are no p
 Below you can find the currently available Forge modules and their add-ons, each with a short description and a link to its project page.
 
 
+## PF2E Action Forge
+
+A fast, player-friendly action launcher for Pathfinder 2e in Foundry VTT.
+
+[More about Action Forge](Modules/Action_Forge.md)
+
+The **Action Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-action-forge/issues
+
+
 ## PF2E Affliction Forge
 
 A modular PF2e framework for staged poisons, diseases, curses, and other afflictions. Version 0.1.64 compacts the injected Affliction reference footer on PF2e item sheets and prevents it from stretching with the host window.
