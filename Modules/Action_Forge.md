@@ -28,4 +28,4 @@ Action Forge is available in **English and German**.
 
 The **Action Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-action-forge
 
-**Action Forge will soon be available on Foundry VTT's module repository.**
+**Action Forge is available on Foundry VTT's module repository.**
