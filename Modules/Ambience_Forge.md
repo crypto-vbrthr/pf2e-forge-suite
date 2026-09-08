@@ -1,0 +1,23 @@
+## Ambience Forge
+
+**Ambience Forge** is a system-agnostic audio orchestration module for Foundry VTT, designed to help Game Masters build and control rich, layered soundscapes without turning Foundry into an audio editor.
+
+Ambience compositions can combine several independent track types. **Audio Tracks** provide one-shot sounds or seamless loops, **Random Tracks** introduce irregular environmental sounds with configurable pauses and repeat avoidance, **Sequence Tracks** play collections in a defined or randomized order, and **Intensity Tracks** allow a soundscape to shift smoothly between several prepared variants using crossfades.
+
+Each composition has its own **master volume**, while individual tracks retain separate volume controls. During play, the dedicated **Quick Control** interface allows temporary live changes to master volume, track volume, track activation, and intensity without altering the saved composition. Ambience Forge also respects Foundry's normal Environment volume control.
+
+The module supports **Scene Emitters**, allowing complete ambience compositions to be positioned directly on a Scene. Emitters can use a configurable radius, maximum volume, and distance falloff, so the ambience becomes louder as a listener approaches and fades away with distance. Foundry's wall and door geometry can optionally be ignored, attenuate the sound, or block it entirely.
+
+Ambience compositions can be **exported and imported as JSON**, making carefully prepared soundscapes reusable across different Foundry worlds. Exports contain the composition structure, track settings, volumes, intensity variants, timing rules, and audio file references, while the audio files themselves remain external.
+
+Ambience Forge deliberately focuses on **playback orchestration rather than audio processing**. Sound files are prepared externally, while Ambience Forge controls what plays, when it plays, how loudly it plays, how layers interact, and how they transition during the game.
+
+A versioned **public API** allows other modules to start, stop, request, release, and dynamically control ambience compositions. Reference-counted ownership allows several integrations to request the same ambience without accidentally stopping one another. Modules such as **Weather Forge, Atmosphere Forge, Region Forge**, and other Foundry tools can therefore use Ambience Forge as optional shared audio infrastructure while continuing to function normally when it is not installed.
+
+Ambience Forge is available in **English and German**.
+
+**Requires Foundry VTT 14 and Pathfinder 2E 8.4.0 or later.**
+
+The **Ambience Forge** can be found here: https://github.com/crypto-vbrthr/ambience-forge
+
+**Ambience Forge will soon be available on Foundry VTT's module repository.**

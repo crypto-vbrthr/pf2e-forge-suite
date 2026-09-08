@@ -133,6 +133,15 @@ An original bilingual wilderness affliction library for PF2E Affliction Forge. I
 **Affliction Forge: Wilderness Maladies** can be found here: https://github.com/crypto-vbrthr/pf2e-affliction-forge-wilderness-maladies
 
 
+## Ambience Forge
+
+Ambience Forge is a system-agnostic Foundry VTT module for orchestrating finished audio assets. It controls **what plays, when it plays, how loudly it plays, and which layers run in parallel**. It intentionally does not edit audio or apply EQ, reverb, filters, pitch changes, or other sound processing.
+
+[More about Ambience Forge](Modules/Ambience_Forge.md)
+
+The **Ambience Forge** can be found here: https://github.com/crypto-vbrthr/ambience-forge
+
+
 ## PF2E Aura Forge
 
 Builds and manages reusable PF2e aura definitions with presence effects, event triggers, saving throws, immunity rules, and the embedded Effect Forge editor.
