@@ -250,6 +250,15 @@ Tactical card packs for PF2E Critical Forge that reshape the flow of martial com
 **Critical Forge: Martial Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-martial-consequences
 
 
+### PF2E Critical Forge: Skillful Consequences
+
+Action-focused critical success and critical failure consequences for Pathfinder 2e skill checks, designed to add tactical and narrative follow-through without replacing the normal PF2e result.
+
+[More about Critical Forge: Skillful Consequences](Modules/Critical_Forge_Skillful_Consequences.md)
+
+**Critical Forge: Skillful Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-skillful-consequences
+
+
 ## PF2E Item Forge
 
 A reusable PF2E item generation engine with an embedded editor for Foundry VTT.

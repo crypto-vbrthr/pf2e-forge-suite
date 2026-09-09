@@ -1,4 +1,4 @@
-## Ambience Forge
+# Ambience Forge
 
 **Ambience Forge** is a system-agnostic audio orchestration module for Foundry VTT, designed to help Game Masters build and control rich, layered soundscapes without turning Foundry into an audio editor.
 
@@ -21,3 +21,61 @@ Ambience Forge is available in **English and German**.
 The **Ambience Forge** can be found here: https://github.com/crypto-vbrthr/ambience-forge
 
 **Ambience Forge will soon be available on Foundry VTT's module repository.**
+
+
+
+## Ambience Forge Integration Convention
+
+Ambience Forge is designed as the shared audio-environment service for modules in the Forge Suite. Other Forge modules may use it optionally to control the acoustic state of a scene without needing to know which audio files, tracks, volumes, random events, or transitions are used internally.
+
+The integration is intentionally semantic:
+
+> External modules describe **what is happening**.  
+> Ambience Forge decides **how that situation sounds**.
+
+Ambience Forge remains optional. A Forge module integrating with it must continue to function normally when Ambience Forge is not installed or not active.
+
+---
+
+### Core Concept
+
+An Ambience Forge composition may define several independent **state groups**. Each state group contains mutually exclusive states.
+
+For example:
+
+```text
+Composition: Forest
+
+time-of-day
+├── dawn
+├── day
+├── dusk
+└── night
+
+weather
+├── clear
+├── rain
+├── heavy-rain
+├── storm
+├── snow
+└── fog
+
+situation
+├── calm
+├── busy
+├── danger
+└── combat
+```
+
+Different groups may be active simultaneously.
+
+For example:
+```
+Forest
++ night
++ storm
++ danger
+```
+Ambience Forge combines the configured changes from all active states and determines the resulting track activation, relative volume, intensity, and transitions.
+
+External modules do not need to know how those changes are implemented.
