@@ -232,6 +232,15 @@ Additional card packs for PF2E Critical Forge.
 **Critical Forge: Arsenal** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arsenal
 
 
+### PF2E Critical Forge: Goblin Engineering
+
+Goblin Engineering is a humorous expansion for PF2E Critical Forge. Its cards treat critical fumbles as short-lived equipment incidents: springs object, latches become overconfident, ammunition systems panic, and sometimes the weapon simply emits an indignant squeak.
+
+[More about Critical Forge: Goblin Engineering](Modules/Critical_Forge_Goblin_Engineering.md)
+
+**Critical Forge: Goblin Engineering** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-goblin-engineering
+
+
 ### PF2E Critical Forge: Grim Consequences
 
 A serious Critical Forge expansion for grim campaigns, focused on short, severe consequences without slapstick or permanent character damage.

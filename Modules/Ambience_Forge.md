@@ -20,7 +20,7 @@ Ambience Forge is available in **English and German**.
 
 The **Ambience Forge** can be found here: https://github.com/crypto-vbrthr/ambience-forge
 
-**Ambience Forge will soon be available on Foundry VTT's module repository.**
+**Ambience Forge is available on Foundry VTT's module repository.**
 
 
 

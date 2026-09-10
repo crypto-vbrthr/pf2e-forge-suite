@@ -27,4 +27,4 @@ All content contained in **Skillful Consequences** is original homebrew content 
 
 **Critical Forge: Skillful Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-skillful-consequences
 
-**Critical Forge: Skillful Consequences will soon be available on Foundry VTT's module repository.**
+**Critical Forge: Skillful Consequences is available on Foundry VTT's module repository.**
