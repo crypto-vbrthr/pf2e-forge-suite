@@ -178,6 +178,15 @@ Campaign progress, knowledge, sessions, player-facing campaign overview, tracker
 The **Campaign Forge** can be found here: https://github.com/crypto-vbrthr/campaign-forge
 
 
+## PF2E Chase Forge
+
+A modular Pathfinder 2e chase framework for Foundry VTT with Campaign Forge and Journal integration, a shared Visual System, Core Card Library, seeded template-based route generation, activity-diagram route Builder, branching routes, read-only add-on Chase libraries, synchronized GM and Player views, PF2e chase rules, consequences, protected persistence, and optional Weather Forge integration.
+
+[More about Chase Forge](Modules/Chase_Forge.md)
+
+The **Chase Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-chase-forge
+
+
 ## City Forge
 
 Stable Pathfinder 2e settlement framework for Foundry VTT with generator/templates, economy, places, politics, dynamic state, and versioned Forge-suite integration APIs.
