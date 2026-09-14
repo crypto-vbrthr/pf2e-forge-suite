@@ -24,4 +24,4 @@ All content contained in **Goblin Engineering** is original homebrew content cre
 
 **Critical Forge: Goblin Engineering** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-goblin-engineering
 
-**Critical Forge: Goblin Engineering will soon be available on Foundry VTT's module repository.**
+**Critical Forge: Goblin Engineering is available on Foundry VTT's module repository.**
