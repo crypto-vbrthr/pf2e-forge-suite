@@ -26,4 +26,4 @@ Chase Forge is available in **English and German**.
 
 The **Chase Forge** can be found here: https://github.com/crypto-vbrthr/pf2e-chase-forge
 
-**Chase Forge will soon be available on Foundry VTT's module repository.**
+**Chase Forge is available on Foundry VTT's module repository.**
