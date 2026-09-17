@@ -28,4 +28,4 @@ Campaign Forge is available in **English and German**.
 
 The **Campaign Forge** can be found here: https://github.com/crypto-vbrthr/campaign-forge.
 
-**Campaign Forge will soon be released on Foundry VTT's module repository.**
+**Campaign Forge is available on Foundry VTT's module repository.**
