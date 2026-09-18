@@ -241,6 +241,16 @@ Additional card packs for PF2E Critical Forge.
 **Critical Forge: Arsenal** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-arsenal
 
 
+### PF2E Critical Forge: Awkward Heroics
+
+**Awkward Heroics** is a Critical Forge add-on for Pathfinder 2e. It adds dryly humorous critical results that are funny because the situation is awkward, overconfident, unexpectedly precise, or professionally embarrassing rather than because the rules turn into slapstick.
+The humor is optional flavor. Every card in the pack carries a real, self-contained mechanical effect that still works if the table ignores the joke completely.
+
+[More about Critical Forge: Awkward Heroics](Modules/Critical_Forge_Awkward_Heroics.md)
+
+**Critical Forge: Awkward Heroics** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-awkward-heroics
+
+
 ### PF2E Critical Forge: Goblin Engineering
 
 Goblin Engineering is a humorous expansion for PF2E Critical Forge. Its cards treat critical fumbles as short-lived equipment incidents: springs object, latches become overconfident, ammunition systems panic, and sometimes the weapon simply emits an indignant squeak.
