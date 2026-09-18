@@ -277,6 +277,15 @@ Action-focused critical success and critical failure consequences for Pathfinder
 **Critical Forge: Skillful Consequences** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-skillful-consequences
 
 
+### PF2E Critical Forge: Undead Horrors
+
+Undead-themed critical-result expansion for **PF2E Critical Forge**.
+
+[More about Critical Forge: Undead Horrors](Modules/Critical_Forge_Undead_Horrors.md)
+
+**Critical Forge: Undead Horrors** can be found here: https://github.com/crypto-vbrthr/pf2e-critical-forge-undead-horrors
+
+
 ## PF2E Item Forge
 
 A reusable PF2E item generation engine with an embedded editor for Foundry VTT.
